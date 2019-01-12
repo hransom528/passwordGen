@@ -1,0 +1,7 @@
+For Linux users:
+Install the python package using your package manager. Then, copy the .py file
+to a convenient location. You can then use the command
+"python python-password-generator.py" to run the file.
+
+For a good tutorial on how to install and run python files, use this link:
+https://askubuntu.com/questions/244378/running-python-file-in-terminal
