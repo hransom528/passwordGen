@@ -1,8 +1,8 @@
 # python-password-generator
 Generates a random password using python.
 
-For instructions on how to install, read the corresponding file in the "HOW TO INSTALL" directory of this repository for your OS.
-You can also use setup.py for installing this using PiP.
+This package uses pip and GitHub for distribution. You can install this package
+using pip as well, if GitHub isn't your thing.
 
 Any questions or issues, email me at hransom528@gmail.com
 Happy Coding!
