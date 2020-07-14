@@ -1,8 +1,38 @@
-# python-password-generator
-Generates a random password using python.
+<h1 align="center">passwordGen</h1>
+<p>
+  <a href="https://github.com/commanderHR1/passwordGen/blob/master/LICENSE" target="_blank">
+    <img alt="License: GPLv3.0" src="https://img.shields.io/badge/License-GPLv3.0-yellow.svg" />
+  </a>
+</p>
 
-This package uses pip and GitHub for distribution. You can install this package
-using pip as well, if GitHub isn't your thing.
+> Generates a random password with parameters, written in Python
 
-Any questions or issues, email me at hransom528@gmail.com
-Happy Coding!
+### 🏠 [Homepage](https://github.com/commanderHR1/passwordGen)
+
+## Usage
+
+```sh
+python passwordGen.py
+```
+
+## Author
+
+👤 **Harris Ransom**
+
+* Website: https://commanderhr1.github.io
+* Github: [@commanderHR1](https://github.com/commanderHR1)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/commanderHR1/passwordGen/issues). 
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2020 [Harris Ransom](https://github.com/commanderHR1).<br />
+This project is [GPLv3.0](https://github.com/commanderHR1/passwordGen/blob/master/LICENSE) licensed.
+
+***
